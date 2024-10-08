@@ -1,0 +1,2 @@
+IP Pública: 186.23.197.231
+URL del repositorio remoto: git@github.com:SantiCoch/UTNFRA_SO_1P2C_2024_Coch.git
